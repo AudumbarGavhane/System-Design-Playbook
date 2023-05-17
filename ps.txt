@@ -1,0 +1,15 @@
+sudo apt update 
+
+sudo apt install
+
+sudo apt install docker.io
+
+sudo docker build -t fname .
+
+sudo docker run -d -p 1234:7667 fname
+
+sudo docker images
+
+sudo docker ps
+
+sudo docker kill
