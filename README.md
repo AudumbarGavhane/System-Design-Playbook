@@ -62,7 +62,7 @@ system-design-playbook/
 
 ---
 
-## 🙋 About Me
+## 👦 About Me
 
 **Audumbar Gavhane**  
 Aspiring backend/full-stack developer  
