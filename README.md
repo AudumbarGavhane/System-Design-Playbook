@@ -15,7 +15,7 @@ Welcome to my **System Design Playbook** — a curated resource to master system
 ---
 
 ## 📁 Folder Structure
-
+```
 system-design-playbook/
 │
 ├── concepts/ # Core system design fundamentals
@@ -38,7 +38,7 @@ system-design-playbook/
 │ ├── how-to-approach.md
 │
 └── README.md
-
+```
 
 ---
 
